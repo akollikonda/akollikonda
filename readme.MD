@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Abhilash Kollikonda
 #### I am an Data Scientist 
-![I am an Data Scientist ](https://www.linkedin.com/in/akollikonda/)
+![I am an Data Scientist ]
+(https://github.com/akollikonda/akollikonda/blob/main/Untitled%20design.png)
 
 I currently work as a application developer in a finance corporation, wanting to change my career to the field of data science. I have recently completed  my post  grad diploma in AI-ML. I believe my experience in developing backend application will give me an edge in building data science models. Currently looking for a right opportunity in the field of Data science. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion. Shoot me an email at akollikonda@gmail.com and I'll try to respond as soon as I can. For more details  on  my work experience  please look me up on LinkedIn  (Link Below).
 
