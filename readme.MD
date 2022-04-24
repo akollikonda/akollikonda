@@ -6,7 +6,7 @@ I currently work as a application developer in a finance corporation, wanting to
 
 Skills: Python/ Java/ Artificial Intelligence/ Machine Learning/ Deep learning/ Computer vision 
 
-- 🔭 I’m currently working on Titanic Dataset 
+- 🔭 I’m currently working on Kaggle Datasets 
 - 🌱 I’m currently learning How to deploy ML Apps on mobile phones  
 - 👯 I’m looking to collaborate on Any  Hackathons  
 - 📫 How to reach me: akollikonda@gmail.com 
